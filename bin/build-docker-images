@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+sudo docker build --tag ndrssmn/php5 .docker/php5
+sudo docker build --tag ndrssmn/apache-php5 .docker/apache-php5
